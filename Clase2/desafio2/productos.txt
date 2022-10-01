@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Aceite Castrol",
+    "price": 6300,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_700867-MLA48777649562_012022-O.webp"
+  },
+  {
+    "id": 3,
+    "title": "Aceite Mobil",
+    "price": 7300,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_995600-MLA49805367577_042022-O.webp"
+  },
+  {
+    "id": 4,
+    "title": "Aceite Motul",
+    "price": 8300,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_190305-MLA20860556857_082016-O.webp"
+  },
+  {
+    "id": 5,
+    "title": "Aceite Castrol",
+    "price": 6300,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_700867-MLA48777649562_012022-O.webp"
+  },
+  {
+    "id": 6,
+    "title": "Aceite Motul",
+    "price": 8300,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_190305-MLA20860556857_082016-O.webp"
+  },
+  {
+    "id": 7,
+    "title": "Aceite Mobil",
+    "price": 7300,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_995600-MLA49805367577_042022-O.webp"
+  },
+  {
+    "id": 8,
+    "title": "Aceite Motul",
+    "price": 8300,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_190305-MLA20860556857_082016-O.webp"
+  }
+]
