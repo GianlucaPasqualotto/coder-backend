@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Página de inicio</h2>
+    <form method="post" action="/users">
+        <label>Nombre</label>
+        <input type="text" name="name"/>
+        <label>Apellido</label>
+        <input type="text" name="lastname"/>
+        <label>Edad</label>
+        <input type="number" name="age"/>
+        <button type="submit">Enviar</button>
+    </form>
+    <%- include("./partials/userTable.ejs",{users: users}) %>
+</body>
+</html>
