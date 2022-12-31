@@ -1,0 +1,5 @@
+2022/12/30 20:35:19 [error] 14048#6460: *1 CreateFile() "C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-1.23.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/12/30 20:38:17 [error] 14048#6460: *4 CreateFile() "C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-1.23.3/html/profile" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /profile HTTP/1.1", host: "localhost"
+2022/12/30 20:39:36 [error] 13900#9684: *1 CreateFile() "C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-1.23.3/html/profile" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /profile HTTP/1.1", host: "localhost"
+2022/12/30 20:41:05 [notice] 17952#9816: signal process started
+2022/12/30 20:43:17 [notice] 21604#21904: signal process started
