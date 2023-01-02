@@ -1,0 +1,15 @@
+2022/12/30 20:35:19 [error] 14048#6460: *1 CreateFile() "C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-1.23.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/12/30 20:38:17 [error] 14048#6460: *4 CreateFile() "C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-1.23.3/html/profile" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /profile HTTP/1.1", host: "localhost"
+2022/12/30 20:39:36 [error] 13900#9684: *1 CreateFile() "C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-1.23.3/html/profile" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /profile HTTP/1.1", host: "localhost"
+2022/12/30 20:41:05 [notice] 17952#9816: signal process started
+2022/12/30 20:43:17 [notice] 21604#21904: signal process started
+2023/01/02 19:39:42 [emerg] 6176#20372: unexpected "}" in C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-node\ngnix/conf/nginx.conf:60
+2023/01/02 19:42:04 [emerg] 11692#4848: unexpected "}" in C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-node\ngnix/conf/nginx.conf:60
+2023/01/02 19:42:05 [emerg] 12220#1676: unexpected "}" in C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-node\ngnix/conf/nginx.conf:60
+2023/01/02 19:42:06 [emerg] 22360#19992: unexpected "}" in C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-node\ngnix/conf/nginx.conf:60
+2023/01/02 19:46:45 [notice] 18716#4524: signal process started
+2023/01/02 19:46:45 [error] 18716#4524: OpenEvent("Global\ngx_reload_20248") failed (2: The system cannot find the file specified)
+2023/01/02 19:47:18 [notice] 18168#13360: signal process started
+2023/01/02 19:47:18 [error] 18168#13360: OpenEvent("Global\ngx_reload_20248") failed (2: The system cannot find the file specified)
+2023/01/02 19:48:00 [error] 2800#8248: *1 CreateFile() "C:\Users\Gianluca\Desktop\coder-backend\Clase15\SeccionB\nginx-node\ngnix/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:81", referrer: "http://localhost:81/perfil"
+2023/01/02 20:04:56 [notice] 18096#18716: signal process started

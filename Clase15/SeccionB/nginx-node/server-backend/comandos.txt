@@ -1,0 +1,5 @@
+// Modo Fork
+pm2 start index.js --name="Servidor1" -- 8081
+
+//Modo Cluster
+pm2 start index.js --name="Servidor2" -i 0 -- 8082
