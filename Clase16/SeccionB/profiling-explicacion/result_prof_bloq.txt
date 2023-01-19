@@ -1,0 +1,35 @@
+Statistical profiling result from isolate-bloq.log, (18919 ticks, 0 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+  18869   99.7%          C:\WINDOWS\SYSTEM32\ntdll.dll
+     46    0.2%          C:\Program Files\nodejs\node.exe
+      1    0.0%          C:\WINDOWS\System32\KERNELBASE.dll
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+      1    0.0%   33.3%  Function: ^parseQueryStringValues C:\Users\Gianluca\Desktop\coder-backend\Clase16\SeccionB\profiling-explicacion\node_modules\qs\lib\parse.js:51:50
+      1    0.0%   33.3%  Function: ^_storeHeader node:_http_outgoing:374:22
+      1    0.0%   33.3%  Function: ^<anonymous> node:_http_outgoing:558:44
+
+ [C++]:
+   ticks  total  nonlib   name
+
+ [Summary]:
+   ticks  total  nonlib   name
+      3    0.0%  100.0%  JavaScript
+      0    0.0%    0.0%  C++
+      1    0.0%   33.3%  GC
+  18916  100.0%          Shared libraries
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 1.0% are not shown.
+
+   ticks parent  name
+  18869   99.7%  C:\WINDOWS\SYSTEM32\ntdll.dll
+

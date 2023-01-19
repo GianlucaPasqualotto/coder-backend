@@ -1,0 +1,32 @@
+Statistical profiling result from isolate-nobloq.log, (11687 ticks, 0 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+  11645   99.6%          C:\WINDOWS\SYSTEM32\ntdll.dll
+     41    0.4%          C:\Program Files\nodejs\node.exe
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+      1    0.0%  100.0%  Function: ^compact C:\Users\Gianluca\Desktop\coder-backend\Clase16\SeccionB\profiling-explicacion\node_modules\qs\lib\utils.js:190:31
+
+ [C++]:
+   ticks  total  nonlib   name
+
+ [Summary]:
+   ticks  total  nonlib   name
+      1    0.0%  100.0%  JavaScript
+      0    0.0%    0.0%  C++
+      0    0.0%    0.0%  GC
+  11686  100.0%          Shared libraries
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 1.0% are not shown.
+
+   ticks parent  name
+  11645   99.6%  C:\WINDOWS\SYSTEM32\ntdll.dll
+
