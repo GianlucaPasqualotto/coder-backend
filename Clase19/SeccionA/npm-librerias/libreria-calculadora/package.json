@@ -1,0 +1,19 @@
+{
+  "name": "libreria-calculadora",
+  "version": "1.1.0",
+  "description": "operaciones de calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculadora",
+    "sumar",
+    "restar"
+  ],
+  "author": "Gianluca",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0"
+  }
+}
