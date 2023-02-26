@@ -1,0 +1,16 @@
+# mutation{
+#   addUser(user:{
+#     nombre:"Gianluca",
+#     telefono:"2616751923"
+#   }){
+#     id,
+#     nombre
+#   }
+# }
+
+query{
+    getUsers{
+        id,
+        nombre
+    }
+}
